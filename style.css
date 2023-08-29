@@ -1,0 +1,23 @@
+
+ body{
+  background-image: url(images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+ background-size: contain;
+  background-color: hsl(224, 23%, 55%);
+position: relative;
+ }
+ 
+ .card-content{
+background-color:hsl(225, 100%, 98%);
+margin-bottom: 10px;
+
+
+ }
+ .container{
+  top: 50%;
+  left: 25%;
+  position: relative;
+  
+ }
+
+ 
