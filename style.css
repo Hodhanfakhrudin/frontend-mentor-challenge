@@ -3,7 +3,7 @@
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
  background-size: contain;
-  background-color: hsl(224, 23%, 55%);
+  background-color:hsl(224, 23%, 55%);
 position: relative;
  }
  
@@ -19,5 +19,19 @@ margin-bottom: 10px;
   position: relative;
   
  }
+.text a:hover{
+  text-decoration: none;
+  color: hsl(245, 75%, 52%);
+}
+.btn a:hover{
+ background-color: hsl(223, 79%, 71%);
+}
+.cancle a:hover{
+ color: hsl(223, 47%, 23%);
 
- 
+ }
+ .cancle{
+  text-align: center;
+  text-decoration: none; color:  hsl(225, 29%, 62%);
+ }
+  
